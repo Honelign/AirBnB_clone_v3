@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Honelign Selamu - [Github](https://github.com/honelign) / 
+Honelign Selamu - [Github](https://github.com/honelign) 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
